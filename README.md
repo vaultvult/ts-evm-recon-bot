@@ -23,3 +23,4 @@ Before a security researcher dives into a protocol, they must map out the attack
 1. Install dependencies:
 ```bash
 npm install ethers
+npx ts-node recon.ts
